@@ -1,5 +1,5 @@
- 000 shell alx systems engineering devops  
-
+000 shell alx systems engineering devops  
+(https://gist.github.com/bradtraversy/f03df587f2323b50beb4250520089a9e#ssh-cheat-sheet)
  ALX System Engineering & DevOps  
 Bash  
 Shell Scripting  
